@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (tmp\Debug\) contains files shared from another project (Pang.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Mundo.cpp
+  Pang.vcxproj -> C:\Users\jorge\documents\Uni\Informática ind\TRABAJO INFOR\Super Sanse Bross\bin\JuegoTMT.exe
